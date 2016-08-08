@@ -1,0 +1,5 @@
+language: node_js
+node_js:
+  - "6"
+
+  # this is a node project, version is 6.
